@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "Reina Koh";
+document.getElementById("nameId").textContent = "Reina Koh / 1234567";
 
 //Dynamic background color change
 const color = [
